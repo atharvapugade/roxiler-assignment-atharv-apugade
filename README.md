@@ -13,10 +13,10 @@ Based on their role (Admin, Normal User, Store Owner), they get different access
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** React.js  
+- **Backend:** Express.js  
 - **Database:** MySQL (with Sequelize ORM)  
-- **Other Tools/Libraries:** Axios, Chart.js (if used), Bootstrap/Material UI (if used)  
+   
 
 ---
 
